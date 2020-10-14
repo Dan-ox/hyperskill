@@ -1,0 +1,99 @@
+arabic translations:
+كل
+
+arabic translations:
+كل
+
+arabic examples:
+Should every Council member participate in every mission?
+
+فهل ينبغي أن يشارك كل عضو من أعضاء المجلس في كل بعثة؟
+
+german translations:
+jeden
+
+german examples:
+Enjoy every sunbeam, every moment, every sip.
+
+Genieße jeden Sonnenstrahl, jeden Moment, jeden Schluck.
+
+spanish translations:
+cada
+
+spanish examples:
+Behind every genius is someone understanding.
+
+Detrás de cada genio, siempre hay alguien que lo comprende.
+
+french translations:
+chaque
+
+french examples:
+Indeed, I apologize to every mother, every father, every son, every daughter, every brother, every sister, every neighbor and every friend who lost a beloved in this massacre.
+
+En effet, je demande pardon à chaque mère, chaque père, chaque fils, chaque fille, chaque frère, chaque sœur, chaque voisin et chaque ami qui a perdu un être aimé dans ce massacre.
+
+hebrew translations:
+כל
+
+hebrew examples:
+Saving the InDesign document automatically saves every editable InCopy content file.
+
+שמירה אוטומטית של מסמך InDesign תשמור את כל קובצי התוכן הניתנים לעריכה של InCopy.
+
+japanese translations:
+すべて
+
+japanese examples:
+Available free with every Benchmark account.
+
+こちらは　すべてのBenchmarkアカウントで無料で利用できます。
+
+dutch translations:
+elke
+
+dutch examples:
+That means every werewolf, every witch, every vampire.
+
+Dat betekent, elke weerwolf, elke heks, elke vampier.
+
+polish translations:
+każdy
+
+polish examples:
+In every city, every state, every country.
+
+W każdym mieście, w każdym stanie, w każdym kraju.
+
+portuguese translations:
+cada
+
+portuguese examples:
+Indeed, I apologize to every mother, every father, every son, every daughter, every brother, every sister, every neighbor and every friend who lost a beloved in this massacre.
+
+Na verdade, peço desculpas a cada mãe, cada pai, cada filho, cada filha, cada irmão, cada irmã, cada vizinho, e cada amigo que perdeu um ente querido neste massacre.
+
+romanian translations:
+fiecare
+
+romanian examples:
+Every doctor, every diagnosis, every treatment, every result.
+
+Fiecare doctor, fiecare diagnostic, fiecare tratament, fiecare rezultat.
+
+russian translations:
+каждый
+
+russian examples:
+It must be collected at every interrogation.
+
+Их нужно убирать после каждого допроса, и никогда об этом не забывать.
+
+turkish translations:
+her
+
+turkish examples:
+Every citizen, every government level, every organization, every corporation.
+
+Her vatandaş, her hükümet kademesi, her organizasyon ve her şirket.
+
